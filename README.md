@@ -1,7 +1,7 @@
 # github.io
 # Your Name's GitHub Portfolio
 
-![Profile Picture](link-to-your-profile-picture.jpg)
+![Profile Picture](IMG_1961 (1).jpg)
 
 ## Projects
 
