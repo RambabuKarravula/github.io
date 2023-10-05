@@ -18,4 +18,4 @@
 ## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/your-profile/)
-- [Email](mailto:youremail@example.com)
+- [Email](mailto:karravularambabu@gmail.com)
